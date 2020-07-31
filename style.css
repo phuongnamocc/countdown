@@ -1,0 +1,18 @@
+body{
+    background-image: url("img/maxresdefault.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p {
+    text-align: center;
+    font-size: 60px;
+    margin-top: 350px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+  }
+h1{
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center; 
+    color: white;
+}
